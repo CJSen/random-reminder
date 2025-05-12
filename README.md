@@ -54,3 +54,6 @@ random-reminder/
 
 ```bash
 uv sync
+```
+
+![主页面](./static/main-window.png)
